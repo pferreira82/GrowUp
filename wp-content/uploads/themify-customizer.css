@@ -1,0 +1,12 @@
+/* Themify Customize Styling */
+body[class*="themify"] #site-logo a {	
+	font-family:Ultra;	font-weight:normal;
+	letter-spacing:10px;
+ 
+}
+
+/* Themify Custom CSS */
+#site-logo {
+	margin-top: 8px;
+	font-size: 32px;
+}
